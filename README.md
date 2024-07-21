@@ -115,13 +115,4 @@ Este projeto é um sistema de gerenciamento de artistas que permite listar, cria
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-- Nome: [Seu Nome]
-- Email: [Seu Email]
-- LinkedIn: [Seu LinkedIn]
 
